@@ -9,6 +9,7 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="mx.com.jarpc.dbremota.MainActivity">
 
+    <!--hola-->
     <ListView
         android:id="@+id/listAllProducts"
         android:layout_width="fill_parent"
